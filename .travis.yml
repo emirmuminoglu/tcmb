@@ -5,7 +5,7 @@ arch:
 os: 
   - linux
   - osx
-  -winodws
+  - winodws
 
 go:
   - 1.15.x
